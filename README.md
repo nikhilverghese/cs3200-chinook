@@ -24,4 +24,3 @@ INSERT INTO Quote(person_id, quote)
 Query 4:  Write a query that lists all the customers that listen to longer-than-average tracks, excluding the tracks that are longer than 15 minutes. 
 Query 5:  Write a query that lists all the tracks that are not in one of the top 5 genres with longer duration in the database. 
 Query 6:  Define an insightful query on your own that involves at least three tables
-Rubric
